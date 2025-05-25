@@ -11,7 +11,7 @@ ___
 ## How to use?
 
 Just mark with the mouse the address we want, press the right key, and voila, we've added a new option:
-![/assets/uploads/files/1733880142225-288ebd8d-9c12-4e84-99f7-cf705f46192c-image.png](https://mitmachim.top/assets/uploads/files/1733880142225-288ebd8d-9c12-4e84-99f7-cf705f46192c-image.png)
+![1733880142225-288ebd8d-9c12-4e84-99f7-cf705f46192c-image.png](https://mitmachim.top/assets/uploads/files/1733880142225-288ebd8d-9c12-4e84-99f7-cf705f46192c-image.png)
 
 Click on "search In Google Maps"
 and a new tab opens with the location we chose, in Google Maps.
